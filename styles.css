@@ -1,0 +1,163 @@
+body{
+    background: crimson;
+    width:960px;
+    margin:0 auto;
+}
+
+#container{
+
+    margin:0 auto;
+    float:center;
+    width:700px;
+    box-sizing: border-box;
+    background:beige;
+    padding:5px;
+    padding:20px 90px 0;
+    align-content: center;
+}
+input[type="text"]{
+    padding:6px;
+    width:250px;
+    height:25px;
+    outline:none;
+    align-content: center;
+    opacity: 0.6;
+    outline: none;
+    
+   
+}
+#intro{
+    margin: 150px 0px 0px;
+    text-align: center;
+    font-family:monospace;
+    align-content: center;
+}
+button{
+    height:38px;
+    padding:6px;
+    outline: none;
+    border-radius:10px;
+    background-color: aqua;
+    padding:5px;
+    width:150px;
+    margin-left:20px;
+    outline: none;
+    border: solid 1px gold;
+}
+button:hover{
+    width:200px;
+}
+button:active{
+    border:solid 2px gold;
+    
+}
+#container h1{
+    text-transform: uppercase;
+}
+
+.textarea{
+    align-content: center;
+    width:400px;
+    top:20%;
+    font-size: 33px;
+    left:40%;
+    padding: 20px;
+    height:200px;
+    margin-top:20px;
+    resize: none;
+    pointer-events:none;
+    opacity:0.8;
+    color:black;
+ 
+}
+#cursiveText{
+    font-family: cursive;
+}
+#robotoText{
+    font-family: 'Roboto', sans-serif;   
+}
+#maliText{
+    font-family:'Mali', cursive;
+}
+#chakraText{
+    font-family: 'Chakra Petch', sans-serif;
+}
+#openText{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+#ubuntuText{
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+#charmText{
+  font-family: 'Charmonman', cursive;
+  
+}
+#indieText{
+    font-family: 'Indie Flower', cursive;
+
+}
+#josefinText{
+   font-family: 'Josefin Sans', sans-serif;
+ 
+}
+#lobsterText{
+  font-family: 'Lobster', cursive;
+  
+}
+#pacifioText{
+   font-family: 'Pacifico', cursive; 
+}
+footer{
+    float: bottom;
+    text-align: center;
+    background:white;
+    width:100%;
+    color:red;
+}
+#oneButton{
+    font-family:cursive;
+    font-size:20px;
+    
+}
+#twoButton{
+     font-family: 'Roboto', sans-serif;
+    font-size:20px;
+}
+#threeButton{
+     font-family:'Mali', cursive;
+    font-size:20px
+}
+#fourButton{
+  font-family: 'Chakra Petch', sans-serif;
+    font-size:17.4px
+}
+#fiveButton{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:20px;
+}
+#sixButton{
+   font-family: 'Ubuntu', sans-serif;
+    font-size:20px;
+}
+#sevenButton{
+    font-family: 'Charmonman', cursive;
+    font-size:19px;
+}
+#eightButton{
+    font-family: 'Indie Flower', cursive;
+font-size:20px;
+     
+}
+#nineButton{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size:20px;
+}
+#tenButton{
+    font-family: 'Lobster', cursive;
+    font-size:20px;
+}
+#elevenButton{
+    font-family: 'Pacifico', cursive;
+    font-size:20px;
+}
